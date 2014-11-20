@@ -1,5 +1,7 @@
-#!/usr?bin?env ruby
+#!/usr/bin/env ruby
 
-Puts "Here we go"
+puts "Here we go"
 
-Puts "Welcome to Walshmart, welcome to wlashmart, welcome to walshmart."
+`say Welcome to Walshmart, welcome to wlashmart, welcome to walshmart`
+
+puts "all done!"
