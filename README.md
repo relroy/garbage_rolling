@@ -2,9 +2,9 @@
 
 ## Overview
 
-#Are you tired of Welcome to Walmart?
-#Now you can listen to Welcome to Walshmart!
-#A much better name I think.
+#Are you tired of people bothering you?
+##Now you can roll a garbage can while they are around to annoy them!
+
 
 Add this line to your application's Gemfile:
 
@@ -26,7 +26,7 @@ $ bundle
 
 ## Usage
 
-In your terminla simply type garbage_rolling, hit enter and enjoy!
+In your terminal simply type garbage_rolling, hit enter and enjoy!
 
 ## Contributing
 
